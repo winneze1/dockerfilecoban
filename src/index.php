@@ -1,2 +1,2 @@
 <?php
-echo("minh");
+echo("Minh");
